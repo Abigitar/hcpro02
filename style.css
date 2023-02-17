@@ -23,7 +23,7 @@ body{
     height: 160px;
     transition: 0.5s;
     cursor: pointer;
-    margin-top: 0;
+    
 }
 .box img:hover{
     transform: scale(0.9);

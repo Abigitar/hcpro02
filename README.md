@@ -8,4 +8,4 @@
 
 <h2>Ekran Goruntusu</h2>
 
-![](pws.gif)
+![](pws1.gif)
